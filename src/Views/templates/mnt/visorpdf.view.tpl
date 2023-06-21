@@ -1,0 +1,1 @@
+<embed src="/{{BASE_DIR}}/public/pdf/George Orwell 1984.pdf" type="application/pdf" width="120%" height="700px" style="margin-left: -8%; margin-top: 2%;">
